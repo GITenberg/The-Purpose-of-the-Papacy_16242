@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6562'
     url: http://www.gutenberg.org/2009/agents/6562
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16242#The-Purpose-of-the-Papacy
 gutenberg_issued: '2005-07-08'
 gutenberg_type: Text
 identifiers:
