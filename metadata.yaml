@@ -1,0 +1,30 @@
+_repo: The-Purpose-of-the-Papacy_16242
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaughan, John S. (John Stephen)
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '6562'
+    url: http://www.gutenberg.org/2009/agents/6562
+description: ''
+gutenberg_issued: '2005-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Apologetic works'
+- !lcsh 'Papacy'
+- !lcsh 'Popes -- Infallibility'
+- !lcsh 'Church of England -- Controversial literature'
+- !lcc 'BX'
+- !lcsh 'Continuity of the church -- Anglican Communion'
+title: The Purpose of the Papacy
+url: http://www.gutenberg.org/ebooks/16242
